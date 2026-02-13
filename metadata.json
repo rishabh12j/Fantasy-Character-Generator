@@ -1,0 +1,5 @@
+{
+  "name": "Fantasy Character Generator",
+  "description": "A fantasy character generator powered by Gemini AI that creates unique heroes with stats, backstories, and classes.",
+  "requestFramePermissions": []
+}
